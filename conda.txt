@@ -1,0 +1,4 @@
+ Anaconda  python=3.8.20
+
+
+python .\realtimedetection.py

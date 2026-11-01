@@ -1,0 +1,7 @@
+conda create -n fedweb python=3.10
+conda activate fedweb
+pip install -r requirements.txt
+
+python -m streamlit run webapp.py
+python -m streamlit run app.py
+python -m streamlit run multi.py
